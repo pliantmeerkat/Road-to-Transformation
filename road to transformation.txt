@@ -1,0 +1,134 @@
+Rules:
+the piece will last the time taken to play all chords in order and
+then in retrograde
+instrumentation/ time signiture/ rhythm can be chosen by performers
+only notes from the chords may be used
+the piece will uses divisions of 3 with the 1st line playing all
+notes in the triad, the 2nd notes playing 2 of their choice-
+and the 3rd playing 1, all lines work in cannon,
+with 1 leading and 2 following after 1 chord etc..
+use as mnany or little chords as you wish
+all chords generated follow Neo-Riemannian Theory
+R stands for root chord
+
+
+
+
+Your Transformations are written below
+
+PPNNARLRPNSLLLASAANAPRPAHRSSSPHRLSNLLSSRPLASSRAHANAPAAPLRSLSAHLNRPRRRPLRAHALLRLP
+
+Your start key is F Minor
+
+And here are your chords, not incluiding start!
+
+F Major
+F Minor
+C Major
+F Minor
+F Aug
+F Major
+D Minor
+A# Major
+G Minor
+G Major
+C Minor
+B Major
+D# Minor
+B Major
+D# Minor
+D# Aug
+E Minor
+D# Major
+D# Aug
+C Minor
+C Aug
+G# Major
+C# Minor
+C# Aug
+F# Minor
+F# Major
+D# Minor
+D# Major
+D# Aug
+G Major
+D# Minor
+F# Major
+G Minor
+F# Major
+G Minor
+G Major
+D# Minor
+F# Major
+A# Minor
+A Major
+D Minor
+A# Major
+D Minor
+C# Major
+D Minor
+F Major
+F Minor
+C# Major
+C# Aug
+A Major
+A# Minor
+A Major
+F# Minor
+F# Aug
+A# Major
+F# Minor
+F# Aug
+F# Major
+B Minor
+B Aug
+G# Minor
+G# Major
+G# Aug
+A Minor
+A Aug
+A Major
+A Minor
+F Major
+D Minor
+C# Major
+F Minor
+E Major
+E Aug
+C Major
+G# Minor
+E Major
+A Minor
+C Major
+C Minor
+D# Major
+C Minor
+D# Major
+D# Minor
+B Major
+G# Minor
+G# Aug
+F Minor
+A Major
+A Aug
+A Major
+C# Minor
+A Major
+F# Minor
+D Major
+D Minor
+
+
+Thanks for using this in devellopment program!
+
+Remember thatwhilst you must follow the rules stringlenty there is much room for creativity and self expression!
+so let the creative juices flow and produce some great music!!!
+
+
+this file will be overwritten upon program use so please save a copy of this file elsewhere 
+if you wish to keep the chord sequence generated
+
+
+
+
+Program coded and created by Jack Branch, ask permission before distributing.
