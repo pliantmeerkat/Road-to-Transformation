@@ -16,107 +16,42 @@ R stands for root chord
 
 Your Transformations are written below
 
-PPNNARLRPNSLLLASAANAPRPAHRSSSPHRLSNLLSSRPLASSRAHANAPAAPLRSLSAHLNRPRRRPLRAHALLRLP
+LSPPHPPNARPSSASASPPARANRR
 
-Your start key is F Minor
+Your start key is D Major
 
 And here are your chords, not incluiding start!
 
+F# Minor
 F Major
 F Minor
+F Major
+C# Minor
+C# Major
+C# Minor
+G# Major
+G# Aug
 C Major
-F Minor
+A Minor
+A Major
+A# Minor
+A Major
+A Aug
+F# Minor
+F Major
 F Aug
 F Major
-D Minor
-A# Major
-G Minor
-G Major
-C Minor
-B Major
-D# Minor
-B Major
-D# Minor
-D# Aug
-E Minor
-D# Major
-D# Aug
-C Minor
-C Aug
-G# Major
-C# Minor
-C# Aug
 F# Minor
 F# Major
-D# Minor
-D# Major
-D# Aug
-G Major
-D# Minor
-F# Major
-G Minor
-F# Major
-G Minor
-G Major
-D# Minor
-F# Major
-A# Minor
-A Major
-D Minor
-A# Major
-D Minor
-C# Major
-D Minor
-F Major
-F Minor
-C# Major
-C# Aug
-A Major
-A# Minor
-A Major
 F# Minor
 F# Aug
-A# Major
-F# Minor
-F# Aug
+B Minor
+D Major
+D Aug
 F# Major
 B Minor
-B Aug
-G# Minor
-G# Major
-G# Aug
-A Minor
-A Aug
-A Major
-A Minor
-F Major
-D Minor
-C# Major
-F Minor
-E Major
-E Aug
-C Major
-G# Minor
-E Major
-A Minor
-C Major
-C Minor
-D# Major
-C Minor
-D# Major
-D# Minor
-B Major
-G# Minor
-G# Aug
-F Minor
-A Major
-A Aug
-A Major
-C# Minor
-A Major
-F# Minor
 D Major
-D Minor
+B Minor
 
 
 Thanks for using this in devellopment program!
